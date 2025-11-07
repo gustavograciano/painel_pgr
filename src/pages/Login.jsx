@@ -65,10 +65,6 @@ const Login = () => {
           <button type="submit" className="btn-primary">
             Entrar
           </button>
-
-          <div className="login-hint">
-            <small>💡 Use: admin / admin123</small>
-          </div>
         </form>
       </div>
     </div>
